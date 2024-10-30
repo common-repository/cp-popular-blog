@@ -1,0 +1,26 @@
+.widget-cppb-widget h2 {
+    font-size: 18px;
+    color: #090909;
+    padding-bottom: 20px;
+    line-height: 24px;
+}
+.widget-cppb-widget ul {
+    margin: 0;
+    padding: 0;
+}
+.widget-cppb-widget ul li {
+    display: flex;
+    padding-bottom: 15px;
+    border-bottom: none;
+}
+.widget-cppb-widget ul li .popular-blog-pick {
+    margin-right: 15px;
+    width: 30%;
+}
+.widget-cppb-widget ul li .popular-blog-desc {
+    width: 70%;
+}
+.widget-cppb-widget ul li .popular-blog-desc h4 a {
+    color: #575757;
+    display: block;
+}
